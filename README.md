@@ -24,10 +24,15 @@ the data was collected from the company's database in the form of excel sheet
 
 - using different commands in SQL i was able to generate some valuable insightes from the data
 - using Distict statement to generate the conteries in the sheets
-- using count statement to count the total countries  
-
+- using count statement to count the total countries
+- 
 ### Sharing 
 
 using tableau i was able to generate an interactive dashboard visualising insights generated
 https://public.tableau.com/app/profile/abdelrahman.hemdan/viz/1MSALESRECORDS/Dashboard1
+
+### Action 
+
+- Europe is the region with the most purchases
+- Africa is the most profit generating region
 
