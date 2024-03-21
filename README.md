@@ -25,7 +25,7 @@ the data was collected from the company's database in the form of excel sheet
 - using different commands in SQL i was able to generate some valuable insightes from the data
 - using Distict statement to generate the conteries in the sheets
 - using count statement to count the total countries
-- 
+
 ### Sharing 
 
 using tableau i was able to generate an interactive dashboard visualising insights generated
