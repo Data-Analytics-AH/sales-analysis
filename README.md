@@ -31,8 +31,4 @@ the data was collected from the company's database in the form of excel sheet
 using tableau i was able to generate an interactive dashboard visualising insights generated
 https://public.tableau.com/app/profile/abdelrahman.hemdan/viz/1MSALESRECORDS/Dashboard1
 
-### Action 
-
-- Europe is the region with the most purchases
-- Africa is the most profit generating region
-
+![Screenshot (31)](https://github.com/AbdelrahmanHemdan17/sales-analysis/assets/161534505/15dcd791-24ae-49ff-bc15-11d738cd7571)
