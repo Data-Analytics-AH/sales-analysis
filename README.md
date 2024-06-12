@@ -32,3 +32,9 @@ using tableau i was able to generate an interactive dashboard visualising insigh
 https://public.tableau.com/app/profile/abdelrahman.hemdan/viz/1MSALESRECORDS/Dashboard1
 
 ![Screenshot (31)](https://github.com/AbdelrahmanHemdan17/sales-analysis/assets/161534505/15dcd791-24ae-49ff-bc15-11d738cd7571)
+
+### Action
+
+- Asia is having the same cost and resources as the most selling regions while having 45% less sales
+- More marketing and advertisment should be focused on North America as it's the least profit generating contenent
+- Marketing team should focus more on products that don't sell much other than the top 3
