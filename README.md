@@ -31,7 +31,8 @@ the data was collected from the company's database in the form of excel sheet
 using tableau i was able to generate an interactive dashboard visualising insights generated
 https://public.tableau.com/app/profile/abdelrahman.hemdan/viz/1MSALESRECORDS/Dashboard1
 
-![Screenshot (31)](https://github.com/AbdelrahmanHemdan17/sales-analysis/assets/161534505/15dcd791-24ae-49ff-bc15-11d738cd7571)
+![Screenshot (54)](https://github.com/user-attachments/assets/c14efb84-a6ef-4d67-a4fa-2fa640d09fc1)
+
 
 ### Action
 
